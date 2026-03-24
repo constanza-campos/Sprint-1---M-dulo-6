@@ -1,0 +1,15 @@
+{
+  "nombreProyecto": "Mi Primer Tablero",
+  "tareas": [
+    {
+      "id": 1774323807872,
+      "titulo": "Estudiar para Módulo 7",
+      "descripcion": "Comenzar a hacer los ejercicios del módulo 7 "
+    },
+    {
+      "id": 1774325884903,
+      "titulo": "Estudiar para el módulo 8",
+      "descripcion": "Leer los pauntes y hacer los quiz"
+    }
+  ]
+}
